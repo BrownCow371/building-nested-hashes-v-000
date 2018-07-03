@@ -3,14 +3,14 @@ def second_challenge
     :montague => {
       patriarch: {},
       matriarch:{},
-      heroine: {},
+      hero: {},
       heroine_friends: []
       },
     :capulet => {
       patriarch: {},
       matriarch:{},
       heroine: {},
-      heroine_friends: []
+      hero_friends: []
       }
     }
 
